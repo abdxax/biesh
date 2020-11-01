@@ -1,0 +1,22 @@
+html,body{
+    height: 100%; margin: 0px; padding: 0px;
+    overflow-x: hidden;
+    overflow-y:hidden;
+}
+
+.left-login{
+    height: 4634px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-image:url("../pic.jpg");
+    background-attachment:fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 0;
+    left: 0;
+}
+/*index user dasbord*/
+$easeTime:
